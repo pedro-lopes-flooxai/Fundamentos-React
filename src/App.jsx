@@ -23,8 +23,7 @@ export default () =>
         <Card titulo=" #8 - Renderização Condicional" color="#982395">
             <ParOuImpar numero={21}></ParOuImpar>
             <UsuarioInfo usuario={{nome: 'Fernado'}}/>
-            <UsuarioInfo usuario={{}}/>
-            <UsuarioInfo/>
+          
         </Card>
 
         <Card titulo=" #7 - Desafio Repetição" color="#3A9AD9">
